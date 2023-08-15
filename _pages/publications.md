@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 See an up-to-date list of my publications here: [Linta Reji - Google Scholar](https://scholar.google.com/citations?user=C1DNmagAAAAJ&hl=en)
 
 
