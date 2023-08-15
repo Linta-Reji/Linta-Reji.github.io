@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
+
+
 ### Download full CV [here](Linta-Reji.github.io/files/CV_Apr2023_LintaReji.pdf).
 
 
