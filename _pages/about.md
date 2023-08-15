@@ -15,4 +15,5 @@ Currently, I am a [Postdoctoral Research Associate](https://geosciences.princeto
 https://sustainability.stanford.edu/) at Stanford University.
 
 
-### In July 2024, I will start an independent research group in the [Department of Geophysical Sciences](https://geosci.uchicago.edu/people/linta-reji/) at the University of Chicago. Opportunities are available at all levels to join the group (graduate students, postdocs, and research technicians).
+### In July 2024, I will start an independent research group in the *[Department of Geophysical Sciences](https://geosci.uchicago.edu/people/linta-reji/) at the University of Chicago*. 
+#### *Opportunities are available at all levels to join the group (graduate students, postdocs, and research technicians). [Contact](lreji@princeton.edu) to find out more!*
