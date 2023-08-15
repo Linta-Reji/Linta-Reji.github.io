@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 ---
@@ -30,7 +30,7 @@ author_profile: true
 
 Publications
 ----
-See Publications.
+See [Publications](https://linta-reji.github.io/publications/).
   
 Teaching
 ----
