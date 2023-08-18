@@ -1,3 +1,9 @@
+---
+layout: archive
+title: ""
+permalink: /research/
+author_profile: true
+---
 
 ## Linking microbial eco-evolutionary dynamics and biogeochemical processes in a changing world
 
