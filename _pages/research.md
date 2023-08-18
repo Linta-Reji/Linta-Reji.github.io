@@ -23,11 +23,36 @@ The link between microbial diversity and ecosystem functioning is among the bigg
 ### Current and Past Projects
 
 1. Effect of oxygen variability on wetland microbial methane emissions [ongoing].
-2. Stability of the soil microbial hydrogen sink in the face of increasing anthropogenic emissions[ongoing].
+
+2. Stability of the soil microbial hydrogen sink in the face of increasing anthropogenic emissions [ongoing].
+
 3. Fixed N sensitivity of free-living diazotrophs in marine sediments.
-  Relevant publication: 
-5. Functional ecology of Acidobacteria in response to redox shifts in Sphagnum peat.
-6. Eco-evolutionary diversification within nitrifying archaea in the coastal ocean.
+
+    <ins>Relevant publication</ins>:
+      
+    Darnajoux, R., *Reji L.*, et al., 2022. *J. Geophys. Res. Biogeosci.* doi: 10.1029/2021JG006596.
+
+4. Functional ecology of Acidobacteria in response to redox shifts in Sphagnum peat.
+
+    <ins>Relevant publication</ins>:
+      
+    Reji L., Zhang, X. 2022. *mSystems*. doi: 10.1128/msystems.00055-22.
+   
+5. Eco-evolutionary diversification among nitrifying archaea.
+
+    <ins>Relevant publications</ins>:
+    
+    **Reji L.**, et al., 2022. *ISME J*. doi: 10.1038/s41396-021-01167-7.
+    
+    **Reji, L.**, Francis, C.A. 2020. *ISME J*. doi: 10.1038/s41396-020-0675-6.
+    
+    Tolar, B. B., **L. Reji**, et al., 2020. *Limno. Oceanogr*. 65(9). DOI: 10.1002/lno.11436.
+    
+    **Reji, L.**, et al., 2020. *Front. Microbiol*. doi: 10.3389/fmicb.2020.01075.
+    
+    **Reji, L.**, et al., 2019. *ISME J*. doi: 10.1038/s41396-018-0311-x.
+
+    **Reji, L.**, et al., 2019. *Env. Microbiol*. doi: 10.1111/1462-2920.14753.
 
 
 
