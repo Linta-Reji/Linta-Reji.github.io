@@ -17,7 +17,7 @@ To this end, I combine cutting-edge tools from microbial ecology and geochemistr
  
 **1. Microbial trace gas cycling in the face of natural and anthropogenic global change**
 
-Microbes play important biogeochemical roles as producers and consumers of climate active trace gases, including CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O, and H<sub>2</sub>. Understanding the microbiology of trace gas cycling in a changing world will be a key focus area in my group.
+Microbes play important biogeochemical roles as producers and consumers of climate active trace gases, including CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O, and H<sub>2</sub>. Mechanisms regulating the microbial cycling of these gases remain poorly understood, particularly under global change scenarios. In addition to examining such mechanistic controls on trace gas cycling, my research aims to understand the interactions between microbial functional groups that link the cycling of various climate active trace gases in terrestrial and coastal ecosystems.
 
 
 **2. Ecosystem implications of the generation and maintenance of microbial diversity**
@@ -27,21 +27,21 @@ The link between microbial diversity and ecosystem functioning is among the bigg
 
 ## Current and Past Projects
 
-1. Effect of oxygen variability on wetland microbial methane emissions [ongoing].
+1. Effect of oxygen variability on wetland microbial methane emissions _**[ongoing]**_.
 
-2. Stability of the soil microbial hydrogen sink in the face of increasing anthropogenic emissions [ongoing].
+2. Stability of the soil microbial hydrogen sink in a changing world _**[ongoing]**_.
 
 3. Fixed N sensitivity of free-living diazotrophs in marine sediments.
 
     <ins>Relevant publication</ins>:
       
-    Darnajoux, R., *Reji L.*, et al., 2022. *J. Geophys. Res. Biogeosci.* doi: 10.1029/2021JG006596.
+    Darnajoux, R., **Reji L.**, et al., 2022. *J. Geophys. Res. Biogeosci.* doi: 10.1029/2021JG006596.
 
 4. Functional ecology of Acidobacteria in response to redox shifts in Sphagnum peat.
 
     <ins>Relevant publication</ins>:
       
-    Reji L., Zhang, X. 2022. *mSystems*. doi: 10.1128/msystems.00055-22.
+    **Reji L.**, Zhang, X. 2022. *mSystems*. doi: 10.1128/msystems.00055-22.
    
 5. Eco-evolutionary diversification among nitrifying archaea.
 
