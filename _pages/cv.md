@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### Download full CV [here](Linta-Reji.github.io/files/CV_Aug2023_LintaReji.pdf).
+### Download full CV [here](https://github.com/Linta-Reji/Linta-Reji.github.io/blob/master/files/CV_Aug2023_LintaReji.pdf).
 
 
 ### Education
