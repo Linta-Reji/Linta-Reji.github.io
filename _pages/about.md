@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome! 
+### <span style="color:#436f70">Welcome!</span>
 
 I am a molecular microbial ecologist and a biogeochemist studying how microbial communities interact and co-evolve with the earth’s biogeochemical cycles.
 
