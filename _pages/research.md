@@ -4,7 +4,7 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-## <span style="color:#436f70">Linking microbial eco-evolutionary dynamics and biogeochemical processes in a changing world</span>.
+# <span style="color:#436f70">Linking microbial eco-evolutionary dynamics and biogeochemical processes in a changing world</span>.
 
 
 Microbial communities comprise the majority of biodiversity on earth and perform critical ecological functions that propel and maintain the planet’s life-sustaining biogeochemical cycles. The diversity of microbial life, coupled with the dynamic nature of ecosystems, creates a web of complex interactions that remain largely enigmatic.
