@@ -4,7 +4,7 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-# <span style="color:#436f70">Linking microbial eco-evolutionary dynamics and biogeochemical processes in a changing world</span>.
+# <span style="color:#436f70">Linking microbial eco-evolutionary dynamics and biogeochemical processes in a changing world</span>
 
 
 Microbial communities comprise the majority of biodiversity on earth and perform critical ecological functions that propel and maintain the planet’s life-sustaining biogeochemical cycles. The diversity of microbial life, coupled with the dynamic nature of ecosystems, creates a web of complex interactions that remain largely enigmatic.
@@ -17,19 +17,19 @@ To this end, I combine cutting-edge tools from microbial ecology and geochemistr
 
 <img src="../images/research_fig3.png" width="700" height="650">
 
-## Primary focus areas:
+## <span style="color:#436f70">Primary focus areas:</span>
  
-**1. Microbial trace gas cycling in the face of natural and anthropogenic global change**
+### **1. Microbial trace gas cycling in the face of natural and anthropogenic global change**
 
 Microbes play important biogeochemical roles as producers and consumers of climate active trace gases, including CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O, and H<sub>2</sub>. Mechanisms regulating the microbial cycling of these gases remain poorly understood, particularly under global change scenarios. In addition to examining such mechanistic controls on trace gas cycling, my research aims to understand the interactions between microbial functional groups that link the cycling of various climate active trace gases in terrestrial and coastal ecosystems.
 
 
-**2. Ecosystem implications of the generation and maintenance of microbial diversity**
+### **2. Ecosystem implications of the generation and maintenance of microbial diversity**
 
 The link between microbial diversity and ecosystem functioning is among the biggest unknowns in microbial ecology. I am intrigued by the co-existence of microbial sub-populations in nature that diverge along ecological gradients. How is such diversity generated and maintained, particularly in geochemically fluctuating environments? How do co-occurring microorganisms of similar functional/life history strategies partition niche space? What are the functional consequences of phylogenetic and functional diversity for ecosystem functioning, and can we develop a predictive understanding of these links?
 
 
-## Current and Past Projects
+## <span style="color:#436f70">Current and Past Projects:</span>
 
 1. Effect of oxygen variability on wetland microbial methane emissions _**[ongoing]**_.
 
