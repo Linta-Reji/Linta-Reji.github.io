@@ -4,14 +4,14 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-## Linking microbial eco-evolutionary dynamics and biogeochemical processes in a changing world
+## <span style="color:blue">Linking microbial eco-evolutionary dynamics and biogeochemical processes in a changing world</span>.
 
 
 Microbial communities comprise the majority of biodiversity on earth and perform critical ecological functions that propel and maintain the planet’s life-sustaining biogeochemical cycles. The diversity of microbial life, coupled with the dynamic nature of ecosystems, creates a web of complex interactions that remain largely enigmatic.
 
 **My research seeks to develop a mechanistic understanding of microbial responses to environmental stressors and their consequences for biogeochemical processes in terrestrial and coastal systems.**
 
-<img src="../images/research_fig1.png">
+<img src="../images/research_fig1.png" width="600" height="340">
 
 To this end, I combine cutting-edge tools from microbial ecology and geochemistry, including **_“-omics” methods (genome-resolved metagenomics, metatranscriptomics, and targeted marker gene analyses)_ and _geochemical measurements (process rate measurements, diverse gas chromatography techniques, etc)_**. Using a combination of <ins>controlled perturbation experiments in the laboratory</ins> and <ins>spatio-temporally resolved field investigations</ins>, I aim to develop a predictive understanding of microbial acclimation and adaptation trajectories along ecological and geochemical gradients in a changing world.
 
