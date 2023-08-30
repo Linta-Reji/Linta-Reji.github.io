@@ -12,7 +12,10 @@ redirect_from:
 
 I am a molecular microbial ecologist and a biogeochemist studying how microbial communities interact and co-evolve with the earth’s biogeochemical cycles.
 
-<img src="../images/field_peat.jpeg" width="600" height="450">
+|<img src="../images/field_peat.jpeg" width="600" height="450">|
+|:--:|
+|*Peat sampling in the New Jersey Pine Barrens (Summer 2023)*|
+
 
 Currently, I am a Postdoctoral Research Associate in the [Department of Geosciences](https://geosciences.princeton.edu/people/linta-reji#:-:text=linta%20reji) at Princeton University. I received my Ph.D. from the department of [Earth System Sciences](https://earthsystemscience.stanford.edu/), and B.S. (Honors) from the [Earth Systems Program](https://earthsystems.stanford.edu/) at Stanford University.
 
