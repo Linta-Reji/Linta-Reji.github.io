@@ -11,7 +11,7 @@ Microbial communities comprise the majority of biodiversity on earth and perform
 
 **My research seeks to develop a mechanistic understanding of microbial responses to environmental stressors and their consequences for biogeochemical processes in terrestrial and coastal systems.**
 
-![research-span](https://github.com/Linta-Reji/Linta-Reji.github.io/blob/master/images/research_fig1.png)
+![](https://github.com/Linta-Reji/Linta-Reji.github.io/blob/master/images/research_fig1.png)
 
 To this end, I combine cutting-edge tools from microbial ecology and geochemistry, including **_“-omics” methods (genome-resolved metagenomics, metatranscriptomics, and targeted marker gene analyses)_ and _geochemical measurements (process rate measurements, diverse gas chromatography techniques, etc)_**. Using a combination of <ins>controlled perturbation experiments in the laboratory</ins> and <ins>spatio-temporally resolved field investigations</ins>, I aim to develop a predictive understanding of microbial acclimation and adaptation trajectories along ecological and geochemical gradients in a changing world.
 
