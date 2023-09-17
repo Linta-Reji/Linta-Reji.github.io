@@ -12,7 +12,7 @@ redirect_from:
 
 I am a molecular microbial ecologist and a biogeochemist studying how microbial communities interact and co-evolve with the earth’s biogeochemical cycles.
 
-|<img src="../images/field_peat.jpeg" width="600" height="450">|
+|<img src="../images/field_peat_ed.jpeg" width="600" height="450">|
 |:--:|
 |*Sampling peat in the New Jersey Pine Barrens (Summer 2023).*|
 
