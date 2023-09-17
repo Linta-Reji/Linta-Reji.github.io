@@ -1,10 +1,12 @@
 ---
-layout: archive
+permalink: /
 title: ""
-permalink: /about me/
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
 
 ## <span style="color:#366188">Welcome to my personal research website!</span>
 
