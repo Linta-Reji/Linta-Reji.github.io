@@ -1,15 +1,12 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
+layout: archive
+title: ""
+permalink: /about me/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-## <span style="color:#366188">Welcome to my personal research website!</span>
 
+## <span style="color:#366188">Welcome to my personal research website!</span>
 
 I am a molecular microbial ecologist and a biogeochemist studying how microbial communities interact and co-evolve with the earth’s biogeochemical cycles.
 
